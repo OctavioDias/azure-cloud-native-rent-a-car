@@ -44,8 +44,8 @@ rent-a-car/
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/oMaestro174/azure-cloud-native-lab007.git
-cd azure-cloud-native-lab007
+git clone https://github.com/oMaestro174/azure-cloud-native-lab007.git](https://github.com/OctavioDias/azure-cloud-native-rent-a-car.git
+cd azure-cloud-native-rent-a-car
 npm install
 ```
 
